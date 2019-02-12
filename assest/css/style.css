@@ -1,0 +1,301 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	direction: ltr;
+	font-family: ;
+	color: #516b82;
+	font-family: 'Lato', sans-serif;
+}
+.bg-dark {
+    background-color: #f6f7fb!important;
+}
+.navbar{
+	height: 42px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #4f6a87;
+    margin-right: 20px;
+}
+
+.navbar-dark .navbar-brand {
+    color: #4f6a87;
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.container{
+	width: 980px;
+	height: auto;
+}
+.nav{
+	padding-top:20px;
+	display: inline-flex;
+}
+.container img {
+ margin-right: 30px;
+}
+.nav a {
+    color: #4f6a87;
+    text-decoration: none;
+    background-color: transparent;
+}
+.nav a:hover{
+	text-decoration: underline;
+}
+.search{
+	margin-top: 32px;
+	color: #4f6a87;
+}
+.section{
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+.section h1{
+	
+	width: 100%;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.section p{
+	font-size: 16px;
+	font-weight: normal;
+	margin-top: 25px;
+	color: white;
+	
+}
+.section input{
+	text-transform: uppercase;
+	font-size: 16px;
+	background-color: #00bb9c;
+	color: white;
+	border:none;
+	width:230px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 295px;
+}
+.bgSection{
+	padding-top: 295px;
+	background-color: #506a85;
+}
+.featuerSection{
+	padding-top: 130px;
+}
+.row{
+	margin-top: 60px;
+}
+.section h2,span,h4{
+	width: 100%;
+	text-align: center;
+	color: #4d697f;
+}
+.section h2{
+	margin-bottom: 40px;
+}
+.section span{
+	margin-bottom: 70px;
+	display: block;
+}
+.featuerSection h5,p{
+	color:  #4d697f;
+}
+.featuerSection .row{
+	margin-bottom: 130px;
+}
+.featuerSection p{
+	margin-top: 10px;
+}
+.featuerSection .featureIcon{
+	font-size: 18px;
+	height: 55px;
+	color: #05bc9e;
+	width: 30%;
+	margin-top: 2px;
+}
+.featureDesc{
+	margin-top: 0px;
+    text-align: left;
+    width: 70%;
+}
+.featureDesc p{
+ 	color: #4d697f;
+}
+.checkSection{
+	width: 100%;
+	height: auto;
+	background-color: #f3f4f8;
+	padding-top: 130px;
+}
+.checkSection .section span{
+	margin-bottom: 80px;
+}
+.checkPart{
+	background-color: white;
+	width: 48%;
+    padding: 0px;
+    height: auto;
+}
+.checkPart h4{
+	margin-top: 35px;
+}
+.checkPart span{
+	margin-bottom: 30px;
+	margin-top: 12px;
+}
+.checkPart img{
+	width:100%;
+	padding: 0px;
+}
+.checkSection .row{
+	display: block;
+}
+.owl-carousel{
+	margin-top: 80px;
+	width: 100%;
+}
+.owl-stage{
+	margin-bottom: 40px;
+}
+.owl-stage-outer{
+   width: 100%;
+   margin-left: 70px;
+
+}
+.owl-dot{
+	margin-bottom: 130px;
+}
+.workSection {
+	width: 100%;
+	background-color: white;
+	text-align: center;
+}
+.workSection h2{
+	color:#4f6d87;
+	margin-top: 130px;
+}
+.workSection input{
+	margin-bottom: 130px;
+	margin-top: 40px;
+}
+.lastSection{
+	background-color: #2f4052;
+}
+.lastSection .row{
+	padding-top: 75px;
+}
+.lastSection h4{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.lastSection img{
+	margin-bottom: 25px;
+}
+.lastSection p{
+	margin-top: 0px;
+	text-align: left;
+	width: 100%;
+	color: #6b7986;
+	font-size: 11px;
+}
+.lastSection a{
+	text-align: left;
+	text-decoration: none;
+	transition-duration: 0.2s;
+	color: #6b7986;
+}
+.lastSection a:hover{
+	color: white;
+}
+.column{
+	width: 20%;
+    text-align: left;
+    margin-right: 43px;
+    margin-bottom: -80px;
+}
+.workImg{
+	width: 49%;
+	display: inline-block;
+}
+.workImg img{
+	width:100%;
+	height: 85px;
+	padding: 0px; 
+	margin-bottom: 4px;
+	
+}
+.float-right {
+    float: right!important;
+    padding-left: 0px;
+}
+.inTouch{
+	margin-left: 20px;
+}
+.contact{
+	margin-bottom: 10px;
+}
+.contact span{
+	display: block;
+	font-size: 12px;
+	float:right;
+	margin-top: -20px;
+	margin-bottom: 0px;
+	text-align: left;
+	padding-left: 16px;
+}
+.contact i{
+	font-weight: bold;
+	font-size: 12px;
+	color: #6b7986;
+
+}
+.subscribeForm{
+	position: relative;
+}
+.subscribeForm .subscribeInput{
+	height: 42px;
+	width: 195px;
+    background: #505d6d;
+    border: 0px;
+    font-size: 8px;
+    text-align: left;
+    text-transform: none;
+   /* padding: 0px 190px 0px 28px;*/
+	
+}
+.subscribeForm .subscribeBtn {
+    position: absolute;
+    height: 25px;
+    width: 70px;
+    color: white;
+    border: 0px;
+    background-color: #09b79e;
+    right: 4px;
+    top: 8px;
+    line-height:14px;
+    font-size:10px;
+}
+.container-fluid{
+	background-color: #293646;
+	height: 80px;
+}
+.footer{
+	margin-top: 25px;
+}
+.footer .nav{
+	line-height: 6px;
+}
+.footer span{
+	margin-left: 10px;
+}
+.footerContainer{
+	margin-left: 153px;
+}
