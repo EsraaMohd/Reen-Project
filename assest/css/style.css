@@ -299,3 +299,26 @@ body{
 .footerContainer{
 	margin-left: 153px;
 }
+.searchForm input.subscribeInput{
+    padding: 0px 15px;
+    margin-top: 25px;
+}
+.modal-content{
+    border: 0px;
+    background: none;
+}
+.searchForm input{
+	width: 130px;
+	height: 28px;
+    position: absolute;
+    margin-top: 20px;
+}
+.navContainer{
+	position: relative;
+}
+.searchForm{
+	padding-right: -27px;
+}
+.modal-body{
+	padding-left: 568px;
+}
